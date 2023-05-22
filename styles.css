@@ -1,3 +1,5 @@
+/* Marging specifics to ensure header fits page without whitespace */
+
 header {
     background-color: black;
     text-align: center;
@@ -34,6 +36,8 @@ p, li {
     color: lightgrey;
 }
 
+/* Reducing width of line breaks to better match the size of body elements */
+
 hr {
     width: 50%;
 }
@@ -51,6 +55,7 @@ img {
     margin-bottom: 80px;
 }
 
+/* Psuedo-classes used to style different states of my social links */
 a:link    { color: palevioletred;  }
 a:visited { color: plum;   }
 a:hover   { color: violet; }
