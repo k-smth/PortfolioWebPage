@@ -1,6 +1,6 @@
 header {
     background-color: black;
-     
+    text-align: center;
 
 }
 
@@ -15,7 +15,7 @@ h4 {
 body {
     background-color: #292929;
     font-family: Constantia;
-    text-align: center;
+    
 }
 
 h2 {
@@ -27,5 +27,15 @@ p, li {
 }
 
 hr {
-    width: 800px;
+    width: 50%;
+}
+
+div {
+    margin: auto;
+    width: 50%;
+}
+
+img {
+    margin: auto;
+    display: block;
 }
