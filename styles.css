@@ -41,11 +41,14 @@ hr {
 div {
     margin: auto;
     width: 50%;
+    margin-bottom: 30px;
 }
 
 img {
     margin: auto;
     display: block;
+    width: 20%;
+    margin-bottom: 80px;
 }
 
 a:link    { color: palevioletred;  }
