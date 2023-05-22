@@ -16,6 +16,7 @@ header > div {
 
 h1 {
     color: whitesmoke;
+    font-size: 30px;
 }
 
 h4 {
@@ -40,6 +41,8 @@ p, li {
 
 hr {
     width: 50%;
+    height: 1px;
+    color: white;
 }
 
 div {
