@@ -5,7 +5,7 @@ header {
 }
 
 h1 {
-    color: white;
+    color: whitesmoke;
 }
 
 h4 {
@@ -14,8 +14,18 @@ h4 {
 
 body {
     background-color: #292929;
+    font-family: Constantia;
+    text-align: center;
 }
 
 h2 {
     color: white;
+}
+
+p, li {
+    color: lightgrey;
+}
+
+hr {
+    width: 800px;
 }
